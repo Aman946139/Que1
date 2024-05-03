@@ -92,8 +92,8 @@ while(true){
 
     }else{
       cout<<arr[start] << " ";
-      cout<<arr[end]<< " 5
-      ";
+      cout<<arr[end]<< " 5";
+      
       start++;
       end--;
     }
@@ -124,3 +124,5 @@ while(true){
 //   }
 
 // }
+
+
